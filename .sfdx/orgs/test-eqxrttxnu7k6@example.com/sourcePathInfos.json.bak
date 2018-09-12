@@ -2,14 +2,14 @@
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536367845294,
             "changeTime": 1536367845294,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536367845295,
             "changeTime": 1536367845295,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,22 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1536371487215,
-            "changeTime": 1536371487215,
-            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+            "modifiedTime": 1536373061332,
+            "changeTime": 1536373061332,
+            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536367845295,
             "changeTime": 1536367845295,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536369789988,
             "changeTime": 1536369789988,
             "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,209 +75,248 @@
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1536371487141,
             "changeTime": 1536371487141,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1536371487153,
             "changeTime": 1536371487153,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1536371487163,
             "changeTime": 1536371487163,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1536371487172,
             "changeTime": 1536371487172,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1536371487177,
             "changeTime": 1536371487177,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4473,
             "modifiedTime": 1536371487182,
             "changeTime": 1536371487182,
-            "contentHash": "9a6f04538325a8bbf6de40b58f92e3e39e31bb5b"
+            "contentHash": "9a6f04538325a8bbf6de40b58f92e3e39e31bb5b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4477,
             "modifiedTime": 1536371487187,
             "changeTime": 1536371487187,
-            "contentHash": "daf6d679fa2b6ae8d5314e8d22ccbda26c85b4b1"
+            "contentHash": "daf6d679fa2b6ae8d5314e8d22ccbda26c85b4b1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4813,
             "modifiedTime": 1536371487194,
             "changeTime": 1536371487194,
-            "contentHash": "b22364f0c3894bb819c607786a3ae0a63d800a37"
+            "contentHash": "b22364f0c3894bb819c607786a3ae0a63d800a37",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17878,
             "modifiedTime": 1536371487211,
             "changeTime": 1536371487211,
-            "contentHash": "0d273611b5be8d59e2ce233f412cbff11e4620e8"
+            "contentHash": "0d273611b5be8d59e2ce233f412cbff11e4620e8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 702,
             "modifiedTime": 1536371487216,
             "changeTime": 1536371487216,
-            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383"
+            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536371487141,
             "changeTime": 1536371487141,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536371487139,
             "changeTime": 1536371487139,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536371487139,
             "changeTime": 1536371487139,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536371487177,
             "changeTime": 1536371487177,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536371487211,
             "changeTime": 1536371487211,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1536371487216,
             "changeTime": 1536371487216,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1536373061348,
+            "changeTime": 1536373061348,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+        }
+    ],
+    [
+        "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 297,
+            "modifiedTime": 1536373103494,
+            "changeTime": 1536373103494,
+            "contentHash": "09148c4d723978827ade487bfd3bdbba041b5ce5"
+        }
+    ],
+    [
+        "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rpugh\\repos\\tf_geolocation\\geoloc\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1536373061348,
+            "changeTime": 1536373061348,
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6"
         }
     ]
 ]
